@@ -5,7 +5,7 @@
 
 🚀 I'm passionate about building dynamic web applications using React and exploring the world of Python. With a year of hands-on experience in React and a love for Python, I'm constantly honing my skills to create elegant and efficient solutions.
 
-📚 Currently pursuing my education at DAG College, where I'm expanding my knowledge of computer science, software development, and Python programming.
+📚 Currently pursuing my education at IIT Madras, where I'm expanding my knowledge of computer science, software development, and Python programming.
 
 🌱 I believe in lifelong learning and staying up-to-date with the latest trends in web development and Python. Excited to collaborate, learn, and share knowledge with the coding community.
 
