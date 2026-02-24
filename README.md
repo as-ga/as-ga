@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated coder from India, channeling the spirit of its age-old philosophies into algorithms, seeking harmony between tradition and innovation in every line of code.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=as-ga&label=Profile%20views&color=0e75b6&style=flat" alt="Ashutosh Gaurav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=as-ga" alt="Ashutosh Gaurav" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gaurav-github-profile-trophy.vercel.app/?username=as-ga" alt="Ashutosh Gaurav" /></a> </p>  
 
 ### 🚀 Passionate Developer Crafting Innovation 🌟
 
