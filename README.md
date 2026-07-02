@@ -1,35 +1,108 @@
-<h1 align="center">👋 Hello, I'm Ashutosh Gaurav !</h1>
-<h3 align="center">A dedicated coder from India, channeling the spirit of its age-old philosophies into algorithms, seeking harmony between tradition and innovation in every line of code.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=as-ga&label=Profile%20views&color=0e75b6&style=flat" alt="Ashutosh Gaurav" /> </p>
+<h1 align="center">Hi 👋, I'm Ashutosh Gaurav</h1>
+<h3 align="center">
+Full Stack Developer • AI/ML Engineer • IIT Madras BS (Data Science & Applications)
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gaurav-github-profile-trophy.vercel.app/?username=as-ga" alt="Ashutosh Gaurav" /></a> </p>  
+<p align="center">
+Building scalable web applications, AI-powered solutions, and continuously learning new technologies.
+</p>
 
-### 🚀 Passionate Developer Crafting Innovation 🌟
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=as-ga&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/as-ga?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/as-ga?style=social" />
+</p>
 
-Hey there! I'm deeply passionate about crafting dynamic web applications that offer seamless functionality and exceptional user experiences. With expertise in React and a keen interest in Python, I'm constantly exploring new technologies to push the boundaries of web development.
+## 👨‍💻 About Me
 
-### 🌱 Lifelong Learner Embracing Innovation 🚀
+- 🎓 Pursuing **BS in Data Science & Applications** at **IIT Madras**
+- 💻 Full Stack Developer passionate about building scalable applications
+- 🤖 Exploring AI, LLMs, Automation & Modern Web Technologies
+- 🌱 Currently learning System Design, AI Agents & Cloud Technologies
+- ⚡ Love solving real-world problems through code
 
-My journey in web development is a continuous quest for knowledge and innovation. I stay updated with the latest trends, incorporating technologies like TypeScript, JavaScript, Node.js, and more. Whether diving into GraphQL for efficient data querying or leveraging Zod for schema validation, I thrive on mastering new tools.
+## 🛠️ Tech Stack
 
-### 🔧 Tech Stack: Powering Innovation 💻
+### 💻 Languages
 
-My toolkit includes React, Next.js, Python, Node.js, Express.js, MongoDB, Redis, and Git. With Redux for state management and tailwindCSS for stylish designs, I ensure optimal performance. GraphQL streamlines data flow, enhancing user experiences. Together, these tools transform ideas into reality, one line of code at a time.
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java" />
+</p>
 
-### 📫 Let's Collaborate and Innovate Together! 🚀
+### 🌐 Frontend
 
-Whether starting a new project or exploring collaborations, I'm all ears! Let's connect and embark on a journey of innovation and creativity. Reach out, and let's make magic happen! ✨
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,js,ts,react,nextjs,redux,vite,angular,threejs,vue,webpack" />
+</p>
 
-<!-- Connect with me -->
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashutosh-li" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashutosh Gaurav" height="30" width="40" /></a></p> 
-<!-- logo -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a> </p>
+### ⚙️ Backend
 
-<p><img align="left" src="https://gaurav-github-readme-stats.vercel.app/api/top-langs?username=as-ga&show_icons=true&locale=en&layout=compact" alt="Ashutosh Gaurav" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,bun,nestjs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://gaurav-github-readme-stats.vercel.app/api?username=as-ga&show_icons=true&locale=en" alt="Ashutosh Gaurav" /></p>
+### 🗄️ Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=as-ga&" alt="Ashutosh Gaurav" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis" />
+</p>
+
+### 🤖 AI / ML
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=anaconda,opencv,pytorch,tensorflow,sklearn,matlab,octave,processing" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+    <img src="https://img.shields.io/badge/Seaborn-5B8FA8?style=flat-square" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  </p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,supabase" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,vscode,postman,graphql,prisma,vercel,netlify,nginx" />
+</p>
+
+## 🏆 Achievements
+
+- 🎓 IIT Madras BS Student
+- 🚀 Google GenAI Hackathon Participant
+- 🏅 IIT Madras E-Summit Finalist
+- 💻 Open Source Contributor
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=as-ga&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=as-ga&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=as-ga&theme=github-dark&hide_border=true"/>
+</p>
+
+## 🤝 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/ashutosh-li">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/as-ga">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+<h3 align="center">
+💡 <i>"Code. Learn. Build. Repeat."</i>
+</h3>
