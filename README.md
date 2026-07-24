@@ -32,7 +32,7 @@ Building scalable web applications, AI-powered solutions, and continuously learn
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,js,ts,react,nextjs,redux,vite,angular,threejs,vue,webpack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,react,nextjs,redux,vite,angular,threejs,vue,webpack" />
 </p>
 
 ### ⚙️ Backend
